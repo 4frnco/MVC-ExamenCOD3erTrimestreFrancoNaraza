@@ -9,9 +9,15 @@ public class Model {
     private ArrayList<Coche> parking = new ArrayList<>();
 
     /**
+     * Constructor explicito de la clase Model.
+     */
+    public Model() {
+    }
+
+    /**
      * Crea un coche y lo almacena en el sistema.
      * @param modelo Modelo del coche.
-     * @param matricul Matrícula única del coche.
+     * @param matricula Matrícula única del coche.
      * @return El coche recién creado.
      */
     public Coche crearCoche(String modelo, String matricula) {
