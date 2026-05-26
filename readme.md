@@ -1,3 +1,10 @@
+Prueba de Avanzar:
+
+![img.png](img.png)
+
+
+
+
 Diagrama de secuencia de mi codigo actualizado:
 
 ```mermaid
